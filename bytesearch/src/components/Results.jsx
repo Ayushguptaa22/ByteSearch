@@ -9,7 +9,7 @@ export const Results = () => {
     const location = useLocation();
     
     useEffect(() => {
-        getResults(searchTerm);
+        //getResults('/search?q=Avengers');
     }, []);
 
     if(loading) return <div>Loading...</div>
