@@ -4,8 +4,11 @@ Working website representation
 # ByteSearch
 Google Search Clone, built with Google API and ReactJS
 
+Live project hosted on Netlify.
+Link: https://glowing-pixie-f9e806.netlify.app/search
+
 Styled with Tailwind CSS, to obtain a minimal utility interface, that displays quick search results.
 
 Dark/Light mode enabled.
 
-Live project hosted on Netlify.
+
