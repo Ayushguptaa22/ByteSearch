@@ -5,5 +5,7 @@ Working website representation
 Google Search Clone, built with Google API and ReactJS
 
 Styled with Tailwind CSS, to obtain a minimal utility interface, that displays quick search results.
+
 Dark/Light mode enabled.
+
 Live project hosted on Netlify.
